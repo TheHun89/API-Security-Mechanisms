@@ -6,6 +6,10 @@
 * The main thing that makes mTLS different (and arguably more secure) is that it requires both the server and client to verify each other: a handshake. This is particularly useful in a scenario where you are the server and not the client.
 
 
+**Okta**
+
+[Okta Auth](https://www.smashingmagazine.com/2022/08/implementing-okta-authentication-react/)
+
 **x509**
 
 * X.509 is a standard format for public key certificates, digital documents that securely associate cryptographic key pairs with identities such as websites, individuals, or organizations.  Many of the certificates that people refer to as Secure Sockets Layer (SSL) certificates are in fact X.509 certificates.
